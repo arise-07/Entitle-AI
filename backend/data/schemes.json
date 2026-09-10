@@ -1,0 +1,790 @@
+[
+    {
+        "id": 1,
+        "name": "PM-KISAN",
+        "category": "agriculture",
+        "benefit": "₹6,000 per year",
+        "eligibility": [
+            "Farmer",
+            "Land owner",
+            "Income < ₹2 lakh"
+        ],
+        "documents": [
+            "Aadhar",
+            "Land certificate",
+            "Bank account"
+        ],
+        "howToApply": "Visit pmkisan.gov.in → Register with Aadhar → Get direct bank transfer",
+        "link": "https://pmkisan.gov.in",
+        "keywords": [
+            "farmer",
+            "agriculture",
+            "rural",
+            "land"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "National Scholarship Scheme",
+        "category": "education",
+        "benefit": "₹10,000 - ₹50,000 per year",
+        "eligibility": [
+            "Student",
+            "12th pass",
+            "Family income < ₹2.5 lakh"
+        ],
+        "documents": [
+            "Aadhar",
+            "Mark sheet",
+            "Income certificate"
+        ],
+        "howToApply": "Visit scholarships.gov.in → Register → Fill application → Submit documents",
+        "link": "https://scholarships.gov.in",
+        "keywords": [
+            "student",
+            "education",
+            "scholarship",
+            "college",
+            "school"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Pradhan Mantri Ujjwala Yojana",
+        "category": "social_welfare",
+        "benefit": "Free LPG gas connection",
+        "eligibility": [
+            "BPL family",
+            "Any adult woman",
+            "No existing gas connection"
+        ],
+        "documents": [
+            "Aadhar",
+            "Ration card",
+            "Bank account"
+        ],
+        "howToApply": "Visit nearest Oil agency → Fill form → Get connection",
+        "link": "https://ujjwalayojana.com",
+        "keywords": [
+            "BPL",
+            "gas",
+            "family",
+            "homemaker",
+            "woman",
+            "female"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Pradhan Mantri Awas Yojana",
+        "category": "housing",
+        "benefit": "₹2.5 - ₹5 lakh home loan subsidy",
+        "eligibility": [
+            "Income < ₹6 lakh",
+            "First-time home buyer",
+            "Age > 18"
+        ],
+        "documents": [
+            "Aadhar",
+            "Income certificate",
+            "Property document",
+            "Loan approval"
+        ],
+        "howToApply": "Visit pmay-urban.gov.in → Apply online → Get bank loan subsidy",
+        "link": "https://pmay-urban.gov.in",
+        "keywords": [
+            "housing",
+            "home",
+            "loan",
+            "family",
+            "shelter"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Ayushman Bharat - PMJAY",
+        "category": "health",
+        "benefit": "Free health insurance up to ₹5 lakh per year",
+        "eligibility": [
+            "BPL/APL family",
+            "Any age",
+            "Listed in SECC database"
+        ],
+        "documents": [
+            "Aadhar",
+            "Ration card",
+            "PMJAY card"
+        ],
+        "howToApply": "Register at pmjay.gov.in or nearest empanelled hospital",
+        "link": "https://pmjay.gov.in",
+        "keywords": [
+            "health",
+            "insurance",
+            "medical",
+            "hospital",
+            "family",
+            "BPL"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Pradhan Mantri Kaushal Vikas Yojana",
+        "category": "employment",
+        "benefit": "Free skill training + ₹8,000 stipend",
+        "eligibility": [
+            "Age 15-45",
+            "Unemployed or school dropout"
+        ],
+        "documents": [
+            "Aadhar",
+            "10th mark sheet"
+        ],
+        "howToApply": "Visit pmkvyofficial.org → Register → Join nearest training center",
+        "link": "https://pmkvyofficial.org",
+        "keywords": [
+            "skill",
+            "training",
+            "employment",
+            "youth",
+            "unemployed",
+            "job"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Sukanya Samriddhi Yojana",
+        "category": "education",
+        "benefit": "8.2% interest rate + tax benefits for girl child education",
+        "eligibility": [
+            "Girl child age < 10",
+            "Parent or Guardian"
+        ],
+        "documents": [
+            "Birth certificate",
+            "Aadhar",
+            "Parent ID proof"
+        ],
+        "howToApply": "Open account at post office or bank → Deposit minimum ₹250/year",
+        "link": "https://www.india.gov.in",
+        "keywords": [
+            "girl",
+            "education",
+            "savings",
+            "child",
+            "female",
+            "daughter"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "AICTE Scholarship for Women",
+        "category": "education",
+        "benefit": "₹12,000 per year for girl engineering students",
+        "eligibility": [
+            "Girl student",
+            "Engineering college",
+            "Family income < ₹8 lakh"
+        ],
+        "documents": [
+            "Aadhar",
+            "College ID",
+            "Income certificate",
+            "Mark sheet"
+        ],
+        "howToApply": "Apply through AICTE portal via college → Get approval",
+        "link": "https://aicte-india.org",
+        "keywords": [
+            "girl",
+            "engineering",
+            "student",
+            "female",
+            "education",
+            "college"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Old Age Pension Scheme (NSAP)",
+        "category": "social_welfare",
+        "benefit": "₹1,000 - ₹3,000 per month",
+        "eligibility": [
+            "Age > 60",
+            "BPL family",
+            "Indian citizen"
+        ],
+        "documents": [
+            "Aadhar",
+            "Age proof",
+            "Income certificate",
+            "BPL card"
+        ],
+        "howToApply": "Apply at block development office or gram panchayat",
+        "link": "https://nsap.nic.in",
+        "keywords": [
+            "senior",
+            "pension",
+            "old",
+            "elderly",
+            "retired",
+            "age"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Stand-Up India Loan",
+        "category": "entrepreneurship",
+        "benefit": "₹10 lakh - ₹1 crore business loan at low interest",
+        "eligibility": [
+            "Age > 18",
+            "SC/ST or Woman entrepreneur",
+            "First time business"
+        ],
+        "documents": [
+            "Aadhar",
+            "Business plan",
+            "Bank account",
+            "Caste certificate"
+        ],
+        "howToApply": "Visit standupmitra.in → Apply online or visit bank",
+        "link": "https://standupmitra.in",
+        "keywords": [
+            "business",
+            "loan",
+            "entrepreneur",
+            "startup",
+            "sc",
+            "st",
+            "female",
+            "woman"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Mudra Loan (PMMY)",
+        "category": "entrepreneurship",
+        "benefit": "₹50,000 - ₹10 lakh unsecured business loan",
+        "eligibility": [
+            "Age > 18",
+            "Small business owner or startup"
+        ],
+        "documents": [
+            "Aadhar",
+            "Business ID",
+            "Bank account",
+            "Business plan"
+        ],
+        "howToApply": "Visit mudra.org.in or apply at any bank or MFI",
+        "link": "https://mudra.org.in",
+        "keywords": [
+            "business",
+            "loan",
+            "entrepreneur",
+            "micro",
+            "startup",
+            "self employed"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Pradhan Mantri Matru Vandana Yojana",
+        "category": "social_welfare",
+        "benefit": "₹5,000 cash benefit for pregnant women",
+        "eligibility": [
+            "Pregnant woman",
+            "Age > 19",
+            "First live birth"
+        ],
+        "documents": [
+            "Aadhar",
+            "Health card",
+            "Bank account",
+            "MCP card"
+        ],
+        "howToApply": "Register at ASHA worker or ANM or nearest health center",
+        "link": "https://pmmvy.nic.in",
+        "keywords": [
+            "mother",
+            "pregnant",
+            "maternity",
+            "woman",
+            "female",
+            "homemaker",
+            "baby"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "MGNREGA",
+        "category": "employment",
+        "benefit": "₹300-400 per day guaranteed for 100 days per year",
+        "eligibility": [
+            "Rural adult",
+            "Age > 18",
+            "Willing to do manual work"
+        ],
+        "documents": [
+            "Aadhar",
+            "Ration card",
+            "Job card from Gram Panchayat"
+        ],
+        "howToApply": "Register at Gram Panchayat → Get job card → Apply for work",
+        "link": "https://mgnrega.nic.in",
+        "keywords": [
+            "rural",
+            "employment",
+            "work",
+            "wage",
+            "unemployed",
+            "farmer",
+            "labour"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Pradhan Mantri Jan Dhan Yojana",
+        "category": "banking",
+        "benefit": "Free bank account + ₹1 lakh accident insurance + ₹30,000 life cover",
+        "eligibility": [
+            "All Indian citizens",
+            "Age > 10",
+            "No existing bank account"
+        ],
+        "documents": [
+            "Aadhar or any valid ID proof"
+        ],
+        "howToApply": "Visit nearest bank → Fill account opening form → Get RuPay card",
+        "link": "https://pmjdy.gov.in",
+        "keywords": [
+            "bank",
+            "account",
+            "insurance",
+            "family",
+            "financial"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Atal Pension Yojana",
+        "category": "social_welfare",
+        "benefit": "Guaranteed pension ₹1,000 - ₹5,000 per month after age 60",
+        "eligibility": [
+            "Age 18-40",
+            "Indian citizen",
+            "Has bank account"
+        ],
+        "documents": [
+            "Aadhar",
+            "Bank account",
+            "Mobile number"
+        ],
+        "howToApply": "Enroll at any bank or post office → Choose pension amount → Auto debit",
+        "link": "https://apy.nic.in",
+        "keywords": [
+            "pension",
+            "retirement",
+            "savings",
+            "employed",
+            "future"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "PM SVANidhi (Street Vendor Loan)",
+        "category": "entrepreneurship",
+        "benefit": "₹10,000 - ₹50,000 working capital loan",
+        "eligibility": [
+            "Street vendor",
+            "Age > 18",
+            "Urban area vendor"
+        ],
+        "documents": [
+            "Aadhar",
+            "Vendor ID or certificate",
+            "Bank account"
+        ],
+        "howToApply": "Apply at pmsvanidhi.mohua.gov.in or nearest bank",
+        "link": "https://pmsvanidhi.mohua.gov.in",
+        "keywords": [
+            "vendor",
+            "street",
+            "business",
+            "micro",
+            "urban",
+            "entrepreneur"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "National Family Benefit Scheme",
+        "category": "social_welfare",
+        "benefit": "₹20,000 one-time payment on death of breadwinner",
+        "eligibility": [
+            "BPL family",
+            "Death of primary earner",
+            "Age 18-59"
+        ],
+        "documents": [
+            "Aadhar",
+            "Death certificate",
+            "BPL card",
+            "Bank account"
+        ],
+        "howToApply": "Apply at block development office within 90 days of death",
+        "link": "https://nsap.nic.in",
+        "keywords": [
+            "family",
+            "BPL",
+            "death",
+            "benefit",
+            "social welfare"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Post Matric Scholarship (SC/ST)",
+        "category": "education",
+        "benefit": "Full tuition fee + ₹380 - ₹1,200 monthly maintenance allowance",
+        "eligibility": [
+            "SC/ST student",
+            "Post 10th studying",
+            "Family income < ₹2.5 lakh"
+        ],
+        "documents": [
+            "Aadhar",
+            "Caste certificate",
+            "Income certificate",
+            "Mark sheet"
+        ],
+        "howToApply": "Apply at scholarships.gov.in → State portal → Get approved",
+        "link": "https://scholarships.gov.in",
+        "keywords": [
+            "sc",
+            "st",
+            "student",
+            "scholarship",
+            "education",
+            "college"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Startup India Scheme",
+        "category": "entrepreneurship",
+        "benefit": "Tax exemption + funding support + mentorship + fast-track registration",
+        "eligibility": [
+            "Startup < 10 years old",
+            "Turnover < ₹100 crore",
+            "Innovative product or service"
+        ],
+        "documents": [
+            "Business registration",
+            "Aadhar",
+            "PAN",
+            "Innovation proof"
+        ],
+        "howToApply": "Register at startupindia.gov.in → Get DPIIT recognition → Avail benefits",
+        "link": "https://startupindia.gov.in",
+        "keywords": [
+            "startup",
+            "entrepreneur",
+            "business",
+            "innovation",
+            "technology"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "National Means Cum Merit Scholarship",
+        "category": "education",
+        "benefit": "₹12,000 per year for class 9-12 students",
+        "eligibility": [
+            "Student class 8-12",
+            "Family income < ₹3.5 lakh",
+            "75% marks in previous class"
+        ],
+        "documents": [
+            "Aadhar",
+            "Income certificate",
+            "Mark sheet",
+            "School ID"
+        ],
+        "howToApply": "Apply at scholarships.gov.in → State selection test → Get scholarship",
+        "link": "https://scholarships.gov.in",
+        "keywords": [
+            "student",
+            "school",
+            "merit",
+            "scholarship",
+            "education"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Janani Suraksha Yojana",
+        "category": "health",
+        "benefit": "₹1,400 (rural) or ₹1,000 (urban) cash for institutional delivery",
+        "eligibility": [
+            "Pregnant woman",
+            "BPL family",
+            "Age > 19"
+        ],
+        "documents": [
+            "Aadhar",
+            "Health card",
+            "BPL card",
+            "Bank account"
+        ],
+        "howToApply": "Register at nearest government hospital → Deliver at institution → Get cash",
+        "link": "https://nhm.gov.in",
+        "keywords": [
+            "pregnant",
+            "mother",
+            "delivery",
+            "health",
+            "woman",
+            "female",
+            "homemaker"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Kisan Credit Card",
+        "category": "agriculture",
+        "benefit": "Credit up to ₹3 lakh at 4% interest for farming needs",
+        "eligibility": [
+            "Farmer",
+            "Land owner or tenant farmer",
+            "Age 18-75"
+        ],
+        "documents": [
+            "Aadhar",
+            "Land records",
+            "Bank account",
+            "Passport photo"
+        ],
+        "howToApply": "Apply at nearest bank or cooperative → Get KCC card → Use for farming",
+        "link": "https://pmkisan.gov.in",
+        "keywords": [
+            "farmer",
+            "agriculture",
+            "credit",
+            "loan",
+            "rural",
+            "crop"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "PM Vishwakarma Scheme",
+        "category": "employment",
+        "benefit": "₹15,000 toolkit grant + skill training + low interest loan up to ₹3 lakh",
+        "eligibility": [
+            "Traditional craftsman or artisan",
+            "Age > 18",
+            "18 trade categories"
+        ],
+        "documents": [
+            "Aadhar",
+            "Trade proof",
+            "Bank account"
+        ],
+        "howToApply": "Register at pmvishwakarma.gov.in → Verify trade → Get benefits",
+        "link": "https://pmvishwakarma.gov.in",
+        "keywords": [
+            "craftsman",
+            "artisan",
+            "skill",
+            "traditional",
+            "carpenter",
+            "blacksmith",
+            "employed"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Disability Pension Scheme",
+        "category": "social_welfare",
+        "benefit": "₹500 - ₹1,500 per month",
+        "eligibility": [
+            "Disabled person",
+            "40% or more disability",
+            "BPL family"
+        ],
+        "documents": [
+            "Aadhar",
+            "Disability certificate",
+            "BPL card",
+            "Bank account"
+        ],
+        "howToApply": "Apply at district social welfare office → Medical verification → Get pension",
+        "link": "https://disabilityaffairs.gov.in",
+        "keywords": [
+            "disability",
+            "disabled",
+            "pension",
+            "social welfare",
+            "BPL"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Free Coaching Scheme for SC/ST",
+        "category": "education",
+        "benefit": "Free coaching for competitive exams (UPSC, SSC, Banking, etc.)",
+        "eligibility": [
+            "SC/ST student",
+            "Age < 35",
+            "Family income < ₹8 lakh"
+        ],
+        "documents": [
+            "Aadhar",
+            "Caste certificate",
+            "Income certificate",
+            "Educational proof"
+        ],
+        "howToApply": "Apply at socialjustice.gov.in → Select coaching center → Get free coaching",
+        "link": "https://socialjustice.gov.in",
+        "keywords": [
+            "sc",
+            "st",
+            "coaching",
+            "exam",
+            "student",
+            "education",
+            "upsc"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Beti Bachao Beti Padhao",
+        "category": "education",
+        "benefit": "Educational support + awareness programs for girl child",
+        "eligibility": [
+            "Girl child",
+            "Any income level",
+            "Focus on Haryana, UP, Rajasthan, Tamil Nadu"
+        ],
+        "documents": [
+            "Birth certificate",
+            "Aadhar",
+            "School enrollment proof"
+        ],
+        "howToApply": "Contact nearest district office → Anganwadi center → Get support",
+        "link": "https://wcd.nic.in",
+        "keywords": [
+            "girl",
+            "female",
+            "education",
+            "child",
+            "daughter",
+            "school"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "PM Fasal Bima Yojana",
+        "category": "agriculture",
+        "benefit": "Crop insurance coverage for natural disasters + pest damage",
+        "eligibility": [
+            "Farmer",
+            "Any crop type",
+            "Enrolled before season"
+        ],
+        "documents": [
+            "Aadhar",
+            "Land records",
+            "Bank account",
+            "Crop details"
+        ],
+        "howToApply": "Apply at bank or CSC center before crop season → Pay small premium → Get insured",
+        "link": "https://pmfby.gov.in",
+        "keywords": [
+            "farmer",
+            "crop",
+            "insurance",
+            "agriculture",
+            "disaster",
+            "rural"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "National Apprenticeship Promotion Scheme",
+        "category": "employment",
+        "benefit": "₹1,500 - ₹3,000 monthly stipend + industry training",
+        "eligibility": [
+            "Age 14-21",
+            "Minimum 8th pass",
+            "Looking for vocational training"
+        ],
+        "documents": [
+            "Aadhar",
+            "Educational certificate",
+            "Bank account"
+        ],
+        "howToApply": "Register at apprenticeshipindia.org → Apply to company → Start training",
+        "link": "https://apprenticeshipindia.org",
+        "keywords": [
+            "apprenticeship",
+            "training",
+            "youth",
+            "employment",
+            "skill",
+            "job",
+            "student"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Tamil Nadu Chief Minister's Health Insurance",
+        "category": "health",
+        "benefit": "Free treatment up to ₹5 lakh at government and private hospitals",
+        "eligibility": [
+            "Tamil Nadu resident",
+            "Family income < ₹72,000/year",
+            "Any age"
+        ],
+        "documents": [
+            "Aadhar",
+            "Ration card",
+            "Income certificate"
+        ],
+        "howToApply": "Enroll at nearest government hospital or CSC → Get health card → Use at hospitals",
+        "link": "https://www.cmchistn.com",
+        "keywords": [
+            "health",
+            "insurance",
+            "hospital",
+            "tamil nadu",
+            "family",
+            "medical"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Tamil Nadu Free Laptop Scheme",
+        "category": "education",
+        "benefit": "Free laptop for students entering college",
+        "eligibility": [
+            "Tamil Nadu student",
+            "Entering government college",
+            "Class 11 or college first year"
+        ],
+        "documents": [
+            "Aadhar",
+            "School mark sheet",
+            "College admission proof",
+            "Ration card"
+        ],
+        "howToApply": "Apply through school or college → District education office → Get laptop",
+        "link": "https://www.tn.gov.in",
+        "keywords": [
+            "student",
+            "laptop",
+            "tamil nadu",
+            "education",
+            "college",
+            "school"
+        ]
+    }
+]
