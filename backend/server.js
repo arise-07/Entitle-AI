@@ -277,5 +277,9 @@ Answer clearly and simply in English. Give specific details from scheme data abo
     }
 });
 
+app.get('/health', (req, res) => {
+    res.json({ status: 'ok', service: 'ENTITLE AI' });
+});
+
 const PORT = process.env.PORT || 8000;
 app.listen(PORT, () => console.log(`✅ ENTITLE AI backend running on port ${PORT}`));
